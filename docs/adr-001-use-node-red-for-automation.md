@@ -15,22 +15,20 @@ Decidimos usar Node-RED como nuestra herramienta principal para la automatizaci�
 - Amplia comunidad y soporte.
 - Extensible mediante nodos personalizados.
 - Compatible con múltiples servicios y protocolos.
-- 
+- Software libre
 
 ### Negativas
 - Puede no ser adecuado para flujos de trabajo extremadamente complejos.
 - Dependencia en una herramienta externa.
 
 ## Alternativas Consideradas
-- **Zapier**: Rechazado debido a limitaciones en la personalización y costos.
-- **IFTTT**: Rechazado debido a limitaciones en la personalización y soporte limitado para servicios empresariales.
+- **IFTTT**: Rechazado debido a limitaciones en la personalización y soporte limitado para servicios.
 
 ## Fecha
 2023-10-10
 
 ## Autores
-- Juan Pérez
-- María García
+- [Javier E. Diaz Zamboni](https://github.com/dzjavier) 
 
 ## Referencias
 - [Node-RED](https://nodered.org/)
