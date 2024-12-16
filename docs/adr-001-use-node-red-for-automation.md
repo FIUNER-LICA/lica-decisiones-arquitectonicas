@@ -1,7 +1,7 @@
 # Usar Node-RED para Automatización
 
 ## Estado
-Aceptado
+Propuesta
 
 ## Contexto
 Necesitamos una herramienta para automatizar flujos de trabajo y procesos en nuestro proyecto. La herramienta debe ser fácil de usar, extensible y compatible con múltiples servicios y protocolos.
