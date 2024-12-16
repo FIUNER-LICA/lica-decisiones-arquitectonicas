@@ -4,7 +4,7 @@
 Propuesta
 
 ## Contexto
-Necesitamos una herramienta para automatizar flujos de trabajo y procesos en nuestro proyecto. La herramienta debe ser fácil de usar, extensible y compatible con múltiples servicios y protocolos.
+Necesitamos una herramienta para automatizar flujos de trabajo y procesos en nuestros proyectos. La herramienta debe ser fácil de usar, extensible y compatible con múltiples servicios y protocolos.
 
 ## Decisión
 Decidimos usar Node-RED como nuestra herramienta principal para la automatización de flujos de trabajo. Node-RED es una herramienta de programación visual que permite conectar dispositivos, APIs y servicios en línea de manera sencilla.
