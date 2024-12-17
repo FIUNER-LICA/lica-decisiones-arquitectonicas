@@ -1,4 +1,4 @@
-# Registro de decisiones arquitectónicas
+# Registro de decisiones arquitectónicas del LICA
 Un Registro de Decisión Arquitectónica (ADR), es un documento que describe la elección que hace un equipo sobre algún aspecto importante de la arquitectura de software que planea crear. Cada ADR describe la decisión de arquitectura, su contexto y sus consecuencias.
 
 ## ADRs del LICA
