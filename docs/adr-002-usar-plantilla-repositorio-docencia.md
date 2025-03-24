@@ -4,20 +4,18 @@
 Propuesto
 
 ## Contexto
-La estructura del repositorio `FIUNER-LICA/pa-repositorio-practica-plantilla` está diseñada para facilitar la enseñanza y el desarrollo de Trabajos Prácticos (TPs) en la asignatura de Programación Avanzada. Este repositorio incluye directorios específicos para los códigos provistos por el docente y para los TPs de los estudiantes, con el objetivo de mantener una organización clara y coherente.
+El repositorio `FIUNER-LICA/pa-repositorio-practica-plantilla` está diseñado para facilitar la enseñanza y el desarrollo de Trabajos Prácticos (TPs) en la asignatura de Programación Avanzada. Su estructura sirve como plantilla para organizar los TPs desarrollados por los estudiantes. Su principal objetivo es que tanto docentes y alumnos cuenten con una estructura clara y coherente para las entregas y el seguimiento de los trabajos a lo largo del cursado.
 
 ## Decisión
 Se decidió mantener una estructura de directorios que incluye:
-- **CodigosDeClases**: Contiene los códigos de ejemplo y material provisto por el docente durante las clases de práctica.
-- **TrabajoPractico_1**, **TrabajoPractico_2**, etc.: Directorios destinados a cada uno de los TPs, donde los estudiantes pueden desarrollar y almacenar su trabajo.
-
-Esta estructura permite una clara separación entre el material proporcionado por el docente y el trabajo desarrollado por los estudiantes.
+- `TrabajoPractico_1`: Carpeta independiente destinada al desarrollo y almacenamiento del primer trabajo práctico. Internamente, contiene carpetas específicas para diferentes tipos de archivos relacionados con el TP.
+A medida que avance el curso, se prevé que los alumnos incorporen nuevos directorios para los trabajos prácticos posteriores, siguiendo la nomenclatura `TrabajoPractico_2`, `TrabajoPractico_3` manteniendo la misma estructura interna propuesta. 
 
 ## Consecuencias
 - **Positivas**:
-  - Facilita la organización y el acceso al material de enseñanza.
-  - Los estudiantes pueden encontrar rápidamente los códigos de ejemplo y los enunciados de los TPs.
-  - Mejora la mantenibilidad y escalabilidad del repositorio al tener una estructura clara y definida.
+  - Facilita la organización y el acceso al material relacionado con cada trabajo práctico.
+  - Permite a los estudiantes ubicar y gestionar su código y documentación de manera estructurada.
+  - Mejora la mantenibilidad y escalabilidad del repositorio conforme se incorporan nuevos trabajos prácticos.
 - **Negativas**:
   - Puede requerir una curva de aprendizaje inicial para que los nuevos estudiantes comprendan la estructura.
   - Es necesario mantener la consistencia en la estructura de los directorios a medida que se agregan nuevos TPs.
