@@ -14,4 +14,7 @@ Usar la siguiente plantilla para generar un ADR
 - [Usar plantilla de repositorio en docencia](https://github.com/FIUNER-LICA/lica-decisiones-arquitectonicas/blob/main/docs/adr-002-usar-plantilla-repositorio-docencia.md)
 
 ##  Material de referencia
-- [ADR Organization in GitHub](https://adr.github.io/) 
+- [ADR Organization in GitHub](https://adr.github.io/)
+
+## Conctacto
+- lica@ingenieria.uner.edu.ar
