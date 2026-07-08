@@ -12,9 +12,10 @@ Usar la siguiente plantilla para generar un ADR
 ### ADRs de este repositorio
 - [Usar Node-Red para automatización](https://github.com/FIUNER-LICA/lica-decisiones-arquitectonicas/blob/main/docs/adr-001-use-node-red-for-automation.md)
 - [Usar plantilla de repositorio en docencia](https://github.com/FIUNER-LICA/lica-decisiones-arquitectonicas/blob/main/docs/adr-002-usar-plantilla-repositorio-docencia.md)
+- [Usar Conventional Commits para el registro de commits](/docs/adr-003-usar-conventional-commits.md)
 
 ##  Material de referencia
 - [ADR Organization in GitHub](https://adr.github.io/)
 
-## Conctacto
+## Contacto
 - lica@ingenieria.uner.edu.ar
