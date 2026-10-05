@@ -13,6 +13,7 @@ Usar la siguiente plantilla para generar un ADR
 - [Usar Node-Red para automatización](/docs/adr-001-use-node-red-for-automation.md)
 - [Usar plantilla de repositorio en docencia](/docs/adr-002-usar-plantilla-repositorio-docencia.md)
 - [Usar Conventional Commits para el registro de commits](/docs/adr-003-usar-conventional-commits.md)
+- [Usar Semantic Versioning para el versionado de proyectos](/docs/adr-004-usar-semantic-versioning.md)
 
 ##  Material de referencia
 - [ADR Organization in GitHub](https://adr.github.io/)
