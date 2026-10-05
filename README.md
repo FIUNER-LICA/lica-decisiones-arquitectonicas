@@ -8,11 +8,12 @@ Los ADRs permiten mantener documentada y organizadas las decisiones arquitectón
 ## ADRs del repositorio
 ### Plantilla para generar ADR
 Usar la siguiente plantilla para generar un ADR
-- [Plantilla para generar ADR](https://github.com/FIUNER-LICA/lica-decisiones-arquitectonicas/blob/main/docs/adr-plantilla.md)
+- [Plantilla para generar ADR](/docs/adr-plantilla.md)
 ### ADRs de este repositorio
-- [Usar Node-Red para automatización](https://github.com/FIUNER-LICA/lica-decisiones-arquitectonicas/blob/main/docs/adr-001-use-node-red-for-automation.md)
-- [Usar plantilla de repositorio en docencia](https://github.com/FIUNER-LICA/lica-decisiones-arquitectonicas/blob/main/docs/adr-002-usar-plantilla-repositorio-docencia.md)
+- [Usar Node-Red para automatización](/docs/adr-001-use-node-red-for-automation.md)
+- [Usar plantilla de repositorio en docencia](/docs/adr-002-usar-plantilla-repositorio-docencia.md)
 - [Usar Conventional Commits para el registro de commits](/docs/adr-003-usar-conventional-commits.md)
+- [Usar Semantic Versioning para el versionado de proyectos](/docs/adr-004-usar-semantic-versioning.md)
 
 ##  Material de referencia
 - [ADR Organization in GitHub](https://adr.github.io/)
