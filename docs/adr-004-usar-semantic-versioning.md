@@ -49,7 +49,7 @@ Esto asegura consistencia absoluta al momento de desplegar aplicaciones, levanta
   - Implica un ligero esfuerzo adicional al generar los Releases y la documentación correspondiente en GitHub para cada hito.
 
 ## Alternativas Consideradas
-- **Versionado basado en fechas (Calendar Versioning o CalVer)**: Útil en sistemas donde el paso del tiempo es el principal indicador, pero no comunica información sobre la compatibilidad de las APIs o librerías que interconectamos en nuestros proyectos.
+- **Versionado basado en fechas (Calendar Versioning o CalVer)**: Útil en sistemas donde el paso del tiempo es el principal indicador, pero no comunica información sobre la compatibilidad de las APIs o librerías que interconectamos en nuestros proyectos. [Referencia](https://calver.org/)
 - **Versionado incremental simple (v1, v2, v3)**: Es más sencillo pero pierde toda la expresividad y control en pequeños cambios o corrección de errores.
 
 ## Fecha
